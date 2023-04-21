@@ -1,0 +1,8 @@
+D:\работы\TrainingPractice_01\LOV_Tusk_7\bin\Debug\LOV_Tusk_7.exe.config
+D:\работы\TrainingPractice_01\LOV_Tusk_7\bin\Debug\LOV_Tusk_7.exe
+D:\работы\TrainingPractice_01\LOV_Tusk_7\bin\Debug\LOV_Tusk_7.pdb
+D:\работы\TrainingPractice_01\LOV_Tusk_7\obj\Debug\LOV_Tusk_7.csproj.AssemblyReference.cache
+D:\работы\TrainingPractice_01\LOV_Tusk_7\obj\Debug\LOV_Tusk_7.csproj.SuggestedBindingRedirects.cache
+D:\работы\TrainingPractice_01\LOV_Tusk_7\obj\Debug\LOV_Tusk_7.csproj.CoreCompileInputs.cache
+D:\работы\TrainingPractice_01\LOV_Tusk_7\obj\Debug\LOV_Tusk_7.exe
+D:\работы\TrainingPractice_01\LOV_Tusk_7\obj\Debug\LOV_Tusk_7.pdb
